@@ -2,7 +2,7 @@
 title: "Exploring Kerala: The Enchanting Paradise of South India"
 author: "Jordi"
 date: "2024-08-03"
-categories: [views]
+categories: [Views]
 image: "im1.jpg"
 ---
 

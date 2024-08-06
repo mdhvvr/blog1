@@ -2,7 +2,7 @@
 title: "Highlights from Tokyo Olympics 2021"
 author: "Jordi"
 date: "2024-08-03"
-categories: [Views]
+categories: [sports]
 image: "oly.jpg"
 ---
 
