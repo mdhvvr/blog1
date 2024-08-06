@@ -1,0 +1,12 @@
+---
+title: "Hola!"
+author: "Jordi"
+date: "2024-08-03"
+categories: [views]
+---
+
+This blog has been created just for practice
+
+![](thumbnail.jpg)
+
+Since this post doesn't specify an explicit `image`, the first image in the post will be used in the listing page of posts.

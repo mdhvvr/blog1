@@ -1,0 +1,20 @@
+{
+  "index.qmd": {
+    "index.html": "633e5729"
+  },
+  "about.qmd": {
+    "about.html": "f248dc86"
+  },
+  "posts/post-with-code/index.qmd": {
+    "index.html": "beba5154"
+  },
+  "posts/welcome/index.qmd": {
+    "index.html": "3686f98e"
+  },
+  "posts/Quarto/index.qmd": {
+    "index.html": "d647e8d3"
+  },
+  "posts/Malayalam blog/index.qmd": {
+    "index.html": "c2c4874a"
+  }
+}
